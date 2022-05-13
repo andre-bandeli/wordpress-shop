@@ -48,3 +48,17 @@ Repositório criado para testar o ambiente de desenvolvimento do Wordpress + Doc
               WORDPRESS_DB_NAME: exampledb
           volumes:
               - wordpress:/var/www/html
+
+
+## Rodando um Container
+
+
+- $ docker pull mysql  /*(baixa a imagem)*/
+- $ docker run -it <TAG_IMG> /*(permite rodar o container e utilizar o terminal)*/
+- $ docker ps /*(lista os containers rodando)*/
+
+Verificar Containers executados (ou executando)
+
+- $ docker ps   ou $ docker container ls /*(estão sendo executados no momento)*/
+- $ docker ps -a  /*(containers já executados)*/
+
