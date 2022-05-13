@@ -6,11 +6,11 @@ Repositório criado para testar o ambiente de desenvolvimento do Wordpress + Doc
 
 ## Instalação
 
-- Realizar o download das imagens do Wordpress e mySQL no site do docker hub (necessário já ter o docker e o docker compose instalados na máquina)
+- Realizar o download das imagens do Wordpress e MySQL no site do docker hub (necessário já ter o docker e o docker compose instalados na máquina)
   - Docker install guide: https://docs.docker.com/compose/install/
-  - mySQL install guide linux: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-pt
-  - Wordpress:  https://hub.docker.com/_/wordpress
-  - mySQL: https://hub.docker.com/_/mysql 
+  - MySQL install guide linux: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-pt
+  - Docker Hub Wordpress Image:  https://hub.docker.com/_/wordpress
+  - Docker Hub MySQL Image: https://hub.docker.com/_/mysql 
 
 - Criar uma pasta para o projeto (mkdir wp) e nela criar o arquivo docker-compose.yml, que será onde conterá a estrutura necessária para a criação da imagem docker.
 
