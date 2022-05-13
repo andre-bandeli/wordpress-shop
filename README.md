@@ -50,10 +50,8 @@ Repositório criado para testar o ambiente de desenvolvimento do Wordpress + Doc
               - wordpress:/var/www/html
 
 
-## Rodando um Container
+## Rodando um Container Docker [comandos úteis]
 
-
-- $ docker pull mysql  /*(baixa a imagem)*/
 - $ docker run -it <TAG_IMG> /*(permite rodar o container e utilizar o terminal)*/
 - $ docker ps /*(lista os containers rodando)*/
 
