@@ -2,7 +2,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-Repositório criado para testar o ambiente de desenvolvimento do Wordpress + Docker e, posteriormente, deploy de uma loja virtual, utilizando temas/templates livres e gratuitos. 
+Repositório criado para testar o ambiente de desenvolvimento do Wordpress + Docker e, posteriormente, deploy de uma loja virtual, utilizando temas frees
 
 ## Instalação
 
